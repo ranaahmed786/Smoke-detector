@@ -1,6 +1,5 @@
-# Smoke-detector
-This is a real time demonstration of a smoke detector project
 # A SMOKE DETECTOR
+This is a real time demonstration of a smoke detector project
 ## What is a smoke detector?
 
 A smoke detector is a safety device designed to alert you when it detects smoke, often indicating a fire. It typically consists of a sensor that can sense smoke particles in the air. When smoke is detected, the device emits a loud alarm to warn you of potential danger. Smoke detectors are usually installed on ceilings or high on walls, as smoke rises. They are powered by batteries or connected to the building's electrical system. Regular maintenance, such as changing batteries and testing the alarm, is important to ensure the smoke detector functions properly in an emergency.
